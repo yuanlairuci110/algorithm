@@ -13,6 +13,7 @@ public class Demo1 {
     @Test
     public void test_demo() {
         System.out.println("aaaaaaaa");
+
         System.out.println(JSONObject.toJSONString("aa", SerializerFeature.WriteMapNullValue));
     }
 
