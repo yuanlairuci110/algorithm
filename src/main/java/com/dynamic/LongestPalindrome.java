@@ -16,7 +16,7 @@ import java.util.Scanner;
  * 输入： babad  输出： bab  【注意】："aba" 也是一个有效答案。
  * 输入：cbbd  输出： bb
  */
-public class LeetCode {
+public class LongestPalindrome {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String str = scanner.next();
