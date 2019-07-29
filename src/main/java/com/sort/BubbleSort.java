@@ -5,6 +5,9 @@ import com.alibaba.fastjson.JSONObject;
 /**
  * 冒泡排序
  *
+ * 算法描述: 比较相邻的元素。如果第一个比第二个大，就交换它们两个；
+ * 最佳情况：T(n) = O(n)   最差情况：T(n) = O(n2)   平均情况：T(n) = O(n2)
+ *
  * @author lichaoi <br/>
  * @date 2019年07月29日  9:31
  */
